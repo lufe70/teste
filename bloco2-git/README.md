@@ -20,7 +20,7 @@ bloco2-git/
 ```
 
 ---
-cd..
+
 ## 🚀 Como Usar
 
 ### **1. Exemplo Inicial - API Estável**

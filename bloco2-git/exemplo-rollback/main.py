@@ -3,7 +3,7 @@ API de Detecção de Fraude - Versão 1.1 COM BUG CRÍTICO
 ======================================================
 
 ⚠️ ATENÇÃO: Esta versão contém um bug intencional!
-Deploy desta versão quebrará a produção!
+Deploy desta versão quebrará a produção.
 
 Bug: linha 72 - ZeroDivisionError
 """
